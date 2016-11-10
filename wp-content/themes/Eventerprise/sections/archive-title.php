@@ -38,9 +38,9 @@
 
 <?php if(!empty($archive_title)) : ?>
 	<div class="main-box-head">
-		<h1 class="main-box-title"><?php echo $archive_title; ?></h1>
+		<h1 class="main-box-title"><?php echo $archive_desc; ?></h1>
 		<?php if(!empty($archive_desc)) : ?>
-			<span class="main-box-subtitle"><?php echo $archive_desc; ?></span>
+			<!-- <div class="main-box-subtitle"><?php echo $archive_desc; ?></div> -->
 		<?php endif; ?>
 	</div>
 <?php endif; ?>

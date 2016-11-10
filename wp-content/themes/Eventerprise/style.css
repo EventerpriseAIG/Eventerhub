@@ -29,7 +29,7 @@ I am using the !important tag to over write the styles that are being dynamicall
 .vce-border-top .main-box-title {
 	border-top: none !important;
 	box-shadow: none !important;
-	font-size: 10em;
+	font-size: 8em;
 	letter-spacing: -8px;
 	font-weight: bold;
 	padding: 0;
@@ -43,13 +43,18 @@ I am using the !important tag to over write the styles that are being dynamicall
 .featured-post {
   margin: 4% auto !important;
 }
-
-.new-header, .header-bottom-wrapper {
-	background: white !important;
+h1.entry-title {
+	text-transform: uppercase !important;
+	font-weight: bold;
+	width: 85% !important;
 }
-#vce_main_navigation_menu .menu-item a {
-	color: grey;
+.entry-headline,
+.entry-content {
+	width: 80% !important;
 }
-.nav-menu>li>a {
-	box-shadow: none !important;
+body.category-1150 .main-box-title {
+	border-top: none !important;
+}
+.main-box-title {
+	font-weight: bold !important;
 }

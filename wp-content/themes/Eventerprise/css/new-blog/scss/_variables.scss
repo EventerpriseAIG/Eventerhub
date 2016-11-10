@@ -1,0 +1,96 @@
+// Colors
+//
+// Grayscale and brand colors for use across Bootstrap.
+$white:                     #fff!default;
+$black:                     #000!default;
+$gray-dark:                 #2b2d2e !default;
+$gray:                      #565A5C !default;
+$gray-light:                #929497 !default;
+$gray-lighter:              #DCE0E0 !default;
+$brand-primary:             #0071ba !default;
+$brand-secondary:           #FF9F00 !default;
+$brand-success:             #B3D441 !default;
+$brand-info:                #5caac2 !default;
+$brand-warning:             #ffd200 !default;
+$brand-danger:              #ce2e4b !default;
+$red:                       #FF5254 !default;
+
+
+$btn-secondary-color:            #fff !default;
+$btn-secondary-bg:               $brand-secondary !default;
+$btn-secondary-border:           $btn-secondary-bg!default;
+
+$btn-gray-color:                 #fff !default;
+$btn-gray-bg:                    $gray !default;
+$btn-gray-border:                $btn-gray-bg !default;
+
+$btn-success-color:              #fff !default;
+$btn-success-bg:                 $brand-success !default;
+$btn-success-border:             $btn-success-bg !default;
+
+// Breadcrumbs
+$breadcrumb-divider:            ">" !default;
+
+
+
+// Quickly modify global styling by enabling or disabling optional features.
+
+$enable-flex:               false !default;
+$enable-shadows:            true !default;
+$enable-gradients:          true !default;
+$enable-transitions:        true !default;
+$enable-hover-media-query:  true !default;
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 580px,
+  md: 768px,
+  lg: 999px,
+  xl: 1200px
+) !default;
+
+// $container-max-widths: (
+//   sm: 600px,
+//   md: 800px,
+//   lg: 1000px,
+//   xl: 1200px,
+// ) !default;
+
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,900,400italic,300,200);
+
+$font-family-sans-serif: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif !default;
+$font-family-serif:      Georgia, "Times New Roman", Times, serif !default;
+$font-family-monospace:  Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !default;
+$font-family-base:       $font-family-sans-serif !default;
+
+$font-size-h1: 3.75rem !default; // 60px
+$font-size-h2: 2.625rem !default; // 42px
+$font-size-h3: 2.25rem !default; // 36px
+$font-size-h4: 1.75rem !default; // 28px
+$font-size-h5: 1.5rem !default; //20px
+$font-size-h6: 1rem !default; // 16px
+
+//$headings-font-weight:   bold !default;
+$font-size-root: 16px !default;
+
+$font-size-base: 1rem !default;
+$font-size-lg:   1.25rem !default;
+$font-size-sm:   .875rem !default;
+$font-size-xs:   .75rem !default;
+
+$screen-size-xl:1200px !default;
+$screen-size-lg:999px !default;
+$screen-size-md:768px !default;
+$screen-size-sm:580px !default;
+
+//check-box
+$custom-control-indicator-bg-size:    60% 60% !default;
+$border-radius:          .15em !default;
+
+
+
+
+
+
+
+

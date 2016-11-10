@@ -1,0 +1,55 @@
+/*
+Theme Name: Eventerprise
+Description: Child theme for the Avada
+Template: Avada
+Text Domain:eventerprise
+*/
+
+@import url('./css/new-blog/new-blog.css');
+
+.new-header .header-1-wrapper .site-branding {
+    padding: 8px 12px;
+    line-height: 0;
+}
+
+
+
+/************
+Custom Styling
+************/
+
+.vce-single .entry-content a {          /* added by Marc Steyn to highlight links in body of posts */
+    color: blue;
+}
+
+/************
+I am using the !important tag to over write the styles that are being dynamically added to the index page.
+************/
+
+.vce-border-top .main-box-title {
+	border-top: none !important;
+	box-shadow: none !important;
+	font-size: 10em;
+	letter-spacing: -8px;
+	font-weight: bold;
+	padding: 0;
+	margin: 3% 0 2% 0;
+	color: #929497;
+}
+.main-box {
+	box-shadow: none !important;
+	background: none !important;
+}
+.featured-post {
+  margin: 4% auto !important;
+}
+
+.new-header, .header-bottom-wrapper {
+	background: white !important;
+}
+#vce_main_navigation_menu .menu-item a {
+	color: grey;
+}
+.nav-menu>li>a {
+	box-shadow: none !important;
+}

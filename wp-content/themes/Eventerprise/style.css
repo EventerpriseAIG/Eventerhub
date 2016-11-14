@@ -18,15 +18,18 @@ Text Domain:eventerprise
 Custom Styling
 ************/
 
+
 .vce-single .entry-content a {          /* added by Marc Steyn to highlight links in body of posts */
     color: blue;
 }
 
 /************
+
 I am using the !important tag to over write the styles that are being dynamically added to the index page.
+
 ************/
 
-/** page heading styling **/
+/******************************************************* index page heading styling **/
 
 .vce-border-top .main-box-title {
 	border-top: none !important;
@@ -35,7 +38,7 @@ I am using the !important tag to over write the styles that are being dynamicall
 	letter-spacing: -8px;
 	font-weight: bold;
 	padding: 0;
-	margin: 3% 0 2% 0;
+	margin: 5% 0 2% 0;
 	color: #929497;
 }
 .main-box {
@@ -43,7 +46,7 @@ I am using the !important tag to over write the styles that are being dynamicall
 	background: none !important;
 }
 .featured-post {
-  margin: 4% auto !important;
+  margin: 4% auto 0 !important;
 }
 h1.entry-title {
 	text-transform: uppercase !important;
@@ -51,9 +54,53 @@ h1.entry-title {
 	width: 85% !important;
 }
 
-/** Individual article styling **/
+
+
+/****************************************************** Individual article styling for the headings **/
 
 .entry-headline,
 .entry-content {
 	width: 80% !important;
+}
+.main-box-title {
+	font-weight: bold !important;
+}
+
+/******************************************************** Main Navigation Styling ****/
+
+.main-navigation {
+	display: none !important;
+}
+
+.vce-responsive-nav {
+	display: block !important;
+	float: right !important;
+}
+.new-header .header-1-wrapper {
+	float: none;
+	width: 100%;
+}
+.site-branding {
+	text-align: left !important;
+}
+.vce-responsive-nav {
+	position: fixed !important;
+	right: 1%;
+	top: 6px;
+}
+.fa-bars:before {
+	color: white;
+}
+.sidr {
+	background: white !important;
+}
+.sidr li a {
+	color: grey !important;
+}
+.sidr li a:hover {
+    color: coral !important;
+}
+.sidr-class-search-header-form input[type="text"] {
+	background: none;
+	border-radius: 2px;
 }

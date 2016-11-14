@@ -26,6 +26,8 @@ Custom Styling
 I am using the !important tag to over write the styles that are being dynamically added to the index page.
 ************/
 
+/** page heading styling **/
+
 .vce-border-top .main-box-title {
 	border-top: none !important;
 	box-shadow: none !important;
@@ -48,13 +50,10 @@ h1.entry-title {
 	font-weight: bold;
 	width: 85% !important;
 }
+
+/** Individual article styling **/
+
 .entry-headline,
 .entry-content {
 	width: 80% !important;
-}
-body.category-1150 .main-box-title {
-	border-top: none !important;
-}
-.main-box-title {
-	font-weight: bold !important;
 }

@@ -1,0 +1,17 @@
+/*
+Theme Name: Eventerprise
+Description: Child theme for the Avada
+Template: Avada
+Text Domain:eventerprise
+*/
+
+@import url('./css/new-blog/new-blog.css');
+
+.new-header .header-1-wrapper .site-branding {
+    padding: 8px 12px;
+    line-height: 0;
+}
+
+.vce-single .entry-content a {          /* added by Marc Steyn to highlight links in body of posts */
+    color: blue;
+}

@@ -22,26 +22,26 @@
     }
 
 
-    function cloneHeader() {
-        var site_logo = $('.site-title').clone(false);
-        var site_nav = $('.main-navigation').clone(false, false);
-        var site_nav_res = $('.vce-res-nav').clone(false);
-        $('body').prepend('<div id="sticky_header" class="header-sticky"><div class="container">' + site_nav_res.html() + '<div class="site-title">' + site_logo.html() + '</div><div class="main-navigation">' + site_nav.html() + '</div></div></div>');
-        if (vce_js_settings.sticky_header_logo !== "" && $("#sticky_header .site-title a img").length > 0) {
-            $("#sticky_header .site-title a img").attr("src", vce_js_settings.sticky_header_logo);
-        }
-        $("#sticky_header .site-title a img").css('height', 'auto').css('width', 'auto');
+    // function cloneHeader() {
+    //     var site_logo = $('.site-title').clone(true);
+    //     var site_nav = $('.main-navigation').clone(true, true);
+    //     var site_nav_res = $('.vce-res-nav').clone(true);
+    //     $('body').prepend('<div id="sticky_header" class="header-sticky"><div class="container">' + site_nav_res.html() + '<div class="site-title">' + site_logo.html() + '</div><div class="main-navigation">' + site_nav.html() + '</div></div></div>');
+    //     if (vce_js_settings.sticky_header_logo !== "" && $("#sticky_header .site-title a img").length > 0) {
+    //         $("#sticky_header .site-title a img").attr("src", vce_js_settings.sticky_header_logo);
+    //     }
+    //     $("#sticky_header .site-title a img").css('height', 'auto').css('width', 'auto');
 
-        if( vce_js_settings.mega_menu_slider ) {
-            $('#sticky_header .vce-mega-menu-posts-wrap > ul').each( function() {
-                $(this).removeClass("owl-carousel owl-theme owl-loaded");
-                var temp_html = $(this).find('.owl-item:not(.cloned) li');
-                $(this).html('').append(temp_html);
-                vce_mega_menu_slider($(this));
-            });
-        }
+    //     if( vce_js_settings.mega_menu_slider ) {
+    //         $('#sticky_header .vce-mega-menu-posts-wrap > ul').each( function() {
+    //             $(this).removeClass("owl-carousel owl-theme owl-loaded");
+    //             var temp_html = $(this).find('.owl-item:not(.cloned) li');
+    //             $(this).html('').append(temp_html);
+    //             vce_mega_menu_slider($(this));
+    //         });
+    //     }
 
-    }
+    // }
 
 
 

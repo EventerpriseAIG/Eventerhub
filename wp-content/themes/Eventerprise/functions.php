@@ -156,6 +156,14 @@ function vce_load_styles() {
 
 
 /* Load frontend scripts */
+
+/*Load Animation global script**/
+function animation_script () {
+    wp_enqueue_script('js-create', 'https://code.createjs.com/createjs-2015.11.26.min.js', '', '', false);
+}
+
+add_action( 'init', 'animation_script' );
+
 function vce_load_scripts() {
 
     vce_load_styles();
@@ -271,7 +279,7 @@ function guest_author_name( $name ) {
 function new_excerpt_more( $more ) {
     return '  ...';
 }
-add_filter('excerpt_more', 'new_excerpt_more');
+// add_filter('excerpt_more', 'new_excerpt_more');
 
 //For Customizer
 add_action( 'customize_register', 'socialinfo_customizer' );

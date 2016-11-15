@@ -209,7 +209,7 @@ h1.entry-title								{ width: 540px; }
 .site-branding 											{padding: 5px 0 7px;display: inline-block;}
 .site-branding img 										{max-width: 120px; max-height: 30px;}
 .header-sticky .site-title								{float: none;display: inline-block;}
-.header-sticky .vce-responsive-nav{position: absolute;left: 0;}
+.header-sticky .vce-responsive-nav{position: absolute;right: -15px !important;top:-5px;}
 .header-sticky											{text-align: center;}
 .main-header .header-2-wrapper .site-title,
 .main-header .header-3-wrapper .site-title,

@@ -1,4 +1,620 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1980 1020"><defs><style>.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}.cls-3{clip-path:url(#clip-path-2);}.cls-4{fill:url(#radial-gradient);}.cls-5{opacity:0.55;}.cls-6{clip-path:url(#clip-path-4);}.cls-7{fill:#fcfdfb;}.cls-8{opacity:0.29;}.cls-9{clip-path:url(#clip-path-6);}.cls-10,.cls-16,.cls-17{fill:#fff;}.cls-11{opacity:0.63;}.cls-12{clip-path:url(#clip-path-7);}.cls-13{opacity:0.84;}.cls-14{clip-path:url(#clip-path-8);}.cls-15{fill:#f9a01b;}.cls-16{fill-rule:evenodd;}.cls-17{font-size:202px;font-family:SourceSansPro-Bold, Source Sans Pro;font-weight:700;letter-spacing:-0.05em;}</style><clipPath id="clip-path"><rect class="cls-1" x="0.85" width="1980" height="1020"/></clipPath><clipPath id="clip-path-2"><rect class="cls-1" x="2" width="1980" height="1020"/></clipPath><radialGradient id="radial-gradient" cx="-1188.1" cy="2295.06" r="1" gradientTransform="matrix(953.5, 0, 0, -953.5, 1133840.52, 2188850.26)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#37aedf"/><stop offset="1" stop-color="#409dd7"/></radialGradient><clipPath id="clip-path-4"><rect class="cls-1" x="-85.15" y="-731" width="2099.84" height="1803.24"/></clipPath><clipPath id="clip-path-6"><rect class="cls-1" x="-322.85" y="737.53" width="2550.3" height="715.58"/></clipPath><clipPath id="clip-path-7"><rect class="cls-1" x="133.05" y="116.25" width="85.19" height="39.99"/></clipPath><clipPath id="clip-path-8"><rect class="cls-1" x="541.62" y="125.8" width="115.39" height="54.17"/></clipPath></defs><title>Artboard 3</title><g class="cls-2"><g class="cls-3"><rect class="cls-4" x="2" width="1980" height="1020"/></g><g class="cls-2"><path class="cls-7" d="M1093.21,865.66s-.7-3.32-5.93-7.5c-2.38-2-11.85-14.66-.91-36.63.21-.47.54-.94,1.49,2.71s3.12,12.49,19.25,18.55c.51-1.88,5.72-10.49,12.75-10.64s11.94,4.86,13.39,6.65a24.29,24.29,0,0,0,3.7,3.43c.36.33.84,1-.53,1.29s-10.66,1.78-11.47,7.69-7,20.67-21.79,21.68-27.28-5.09-28.91-5.38-18.11-.36-18.11-.36,17.43-2.38,21.52-4,7.52-5.35,9.81-2.79a56.12,56.12,0,0,0,5.73,5.32"/><path class="cls-7" d="M1093.61,830.13s7.27-9.15,8.72-10.36,2.22-2.27,2,1.31-.25,8.77,1.47,11.7,1.58,5.36.25,6.56c-2.11-1-6.7-3.32-12.45-9.22"/><path class="cls-7" d="M1208.08,733.81s-1.31-3.13-7.22-6.27c-2.71-1.51-14.37-12.19-7.72-35.81.12-.5.36-1,2,2.39s5.39,11.69,22.38,14.64c.15-1.94,3.66-11.38,10.54-12.83s12.63,2.55,14.4,4a24.3,24.3,0,0,0,4.28,2.69c.41.26,1,.83-.28,1.36s-10.13,3.74-9.84,9.7-3,21.6-17.36,25.36-27.75.08-29.4.11-17.86,3-17.86,3,16.69-5.59,20.39-8,6.39-6.66,9.12-4.57a56.08,56.08,0,0,0,6.62,4.16"/><path class="cls-7" d="M1201.85,698.84s5.43-10.34,6.64-11.8,1.76-2.65,2.22.91,1.39,8.66,3.63,11.22,2.55,5,1.46,6.4c-2.25-.55-7.2-2-13.95-6.74"/><path class="cls-7" d="M805.59,720.66s-.7-3.32-5.93-7.5c-2.38-2-11.85-14.66-.91-36.63.21-.47.54-.94,1.48,2.71s3.12,12.49,19.25,18.55c.51-1.88,5.72-10.49,12.75-10.64s11.94,4.86,13.39,6.65a24.47,24.47,0,0,0,3.7,3.44c.36.33.84,1-.53,1.29s-10.66,1.78-11.47,7.69-7,20.66-21.79,21.68-27.28-5.09-28.91-5.38-18.11-.36-18.11-.36,17.43-2.38,21.52-4,7.52-5.35,9.81-2.79a55.85,55.85,0,0,0,5.73,5.32"/><path class="cls-7" d="M806,685.14s7.27-9.15,8.72-10.36,2.22-2.27,2,1.31-.25,8.77,1.47,11.7,1.58,5.36.25,6.56c-2.11-1-6.7-3.32-12.45-9.22"/><path class="cls-7" d="M973.35,520.72s-.7-3.32-5.93-7.5c-2.38-2-11.85-14.66-.91-36.63.21-.47.54-.94,1.48,2.71s3.12,12.49,19.25,18.55c.5-1.88,5.72-10.49,12.75-10.64s11.94,4.86,13.39,6.65a24.37,24.37,0,0,0,3.7,3.44c.36.33.84,1-.53,1.29s-10.65,1.78-11.47,7.69-7,20.67-21.79,21.68-27.28-5.09-28.91-5.38-18.11-.36-18.11-.36,17.43-2.38,21.52-4,7.52-5.35,9.81-2.79a56.13,56.13,0,0,0,5.73,5.32"/><path class="cls-7" d="M973.75,485.2s7.27-9.15,8.72-10.35,2.22-2.27,2,1.31-.25,8.77,1.47,11.7,1.58,5.36.24,6.56c-2.11-1-6.69-3.32-12.45-9.22"/><path class="cls-7" d="M1056.22,541.36s-.7-3.32-5.93-7.5c-2.38-2-11.85-14.66-.91-36.63.21-.47.54-.94,1.48,2.71s3.12,12.49,19.25,18.55c.51-1.88,5.72-10.49,12.75-10.64s11.94,4.86,13.39,6.65a24.44,24.44,0,0,0,3.71,3.44c.36.33.84,1-.53,1.29s-10.65,1.78-11.47,7.69-7,20.66-21.79,21.68-27.28-5.09-28.9-5.37-18.11-.36-18.11-.36,17.43-2.38,21.52-4,7.52-5.35,9.81-2.79a55.88,55.88,0,0,0,5.73,5.32"/><path class="cls-7" d="M1056.62,505.84s7.27-9.15,8.72-10.36,2.22-2.28,2,1.31-.25,8.77,1.48,11.7,1.58,5.36.24,6.56c-2.11-1-6.69-3.32-12.45-9.22"/><path class="cls-7" d="M1260.08,663.84s-.7-3.32-5.93-7.5c-2.38-2-11.84-14.66-.91-36.62.21-.47.54-.94,1.49,2.71s3.12,12.49,19.25,18.55c.51-1.88,5.72-10.49,12.75-10.64s11.94,4.86,13.39,6.65a24.08,24.08,0,0,0,3.7,3.43c.36.33.84,1-.53,1.29s-10.66,1.78-11.47,7.69-7,20.67-21.79,21.68-27.28-5.09-28.9-5.38-18.11-.36-18.11-.36,17.43-2.38,21.52-4,7.52-5.35,9.81-2.79a55.88,55.88,0,0,0,5.73,5.32"/><path class="cls-7" d="M1260.48,628.32s7.27-9.15,8.72-10.36,2.22-2.27,2,1.31-.25,8.77,1.47,11.7,1.58,5.36.24,6.56c-2.11-1-6.69-3.32-12.45-9.22"/><path class="cls-7" d="M1033.1,699.44s-.7-3.32-5.93-7.5c-2.38-2-11.85-14.66-.91-36.63.21-.47.54-.94,1.48,2.71s3.12,12.49,19.25,18.55c.51-1.88,5.72-10.49,12.74-10.64s11.94,4.86,13.39,6.65a24.19,24.19,0,0,0,3.7,3.44c.36.33.84,1-.53,1.29s-10.65,1.78-11.47,7.69-7,20.66-21.79,21.68-27.28-5.09-28.91-5.38-18.12-.36-18.12-.36,17.44-2.38,21.53-4,7.52-5.35,9.81-2.79a56,56,0,0,0,5.73,5.32"/><path class="cls-7" d="M1033.51,663.92s7.27-9.15,8.72-10.36,2.22-2.27,2,1.31-.25,8.77,1.47,11.7,1.58,5.36.25,6.56c-2.11-1-6.69-3.32-12.45-9.22"/><path class="cls-7" d="M1076.73,620.59s.23-3.38-3.67-8.83c-1.75-2.56-7.43-17.32,9-35.5.33-.39.78-.76.69,3s-.38,12.86,13.51,23.07c1-1.68,8.34-8.55,15.15-6.79s10.18,7.91,11.09,10a24.2,24.2,0,0,0,2.63,4.31c.25.42.54,1.2-.86,1.1s-10.74-1.17-13.12,4.3-12.29,18-26.84,15-24.88-12.29-26.37-13-17.34-5.25-17.34-5.25,17.43,2.43,21.81,1.95,8.69-3.11,10.2,0a56,56,0,0,0,4.08,6.67"/><path class="cls-7" d="M1086.74,586.51s9.48-6.84,11.2-7.61,2.75-1.59,1.58,1.8-2.62,8.38-1.75,11.67.07,5.59-1.54,6.38c-1.77-1.49-5.54-5-9.49-12.25"/><path class="cls-7" d="M943.9,772.57s-.7-3.32-5.93-7.5c-2.38-2-11.85-14.66-.91-36.62.21-.47.54-.94,1.48,2.71s3.11,12.49,19.25,18.55c.51-1.88,5.72-10.49,12.75-10.64s11.94,4.86,13.39,6.65a24.46,24.46,0,0,0,3.7,3.44c.36.33.84,1-.53,1.29s-10.65,1.78-11.47,7.69-7,20.67-21.79,21.68-27.28-5.09-28.91-5.38-18.11-.36-18.11-.36,17.43-2.38,21.52-4,7.53-5.35,9.81-2.79a56.1,56.1,0,0,0,5.73,5.32"/><path class="cls-7" d="M944.31,737s7.27-9.15,8.72-10.36,2.22-2.27,2,1.31-.25,8.77,1.47,11.7,1.59,5.36.25,6.56c-2.11-1-6.69-3.32-12.45-9.22"/><path class="cls-7" d="M1225.13,573.56s-.7-3.32-5.93-7.5c-2.38-2-11.84-14.66-.91-36.63.22-.47.54-.94,1.49,2.71s3.12,12.49,19.25,18.55c.5-1.88,5.72-10.49,12.74-10.64s11.94,4.86,13.39,6.65a24.43,24.43,0,0,0,3.7,3.44c.36.33.85,1-.53,1.29s-10.66,1.78-11.47,7.69-7,20.67-21.79,21.68-27.28-5.09-28.91-5.38-18.12-.36-18.12-.36,17.44-2.38,21.53-4,7.52-5.35,9.81-2.79a55.83,55.83,0,0,0,5.73,5.32"/><path class="cls-7" d="M1225.53,538s7.27-9.15,8.72-10.36,2.22-2.27,2,1.31-.25,8.77,1.47,11.7,1.58,5.36.24,6.56c-2.11-1-6.69-3.32-12.45-9.22"/><path class="cls-7" d="M1133.17,549.79s.3-3.38-3.47-8.91c-1.7-2.6-7-17.48,9.86-35.29.34-.39.79-.74.63,3s-.68,12.85,13,23.38c1-1.65,8.54-8.36,15.3-6.44s10,8.14,10.86,10.28a24.13,24.13,0,0,0,2.54,4.37c.24.42.51,1.21-.88,1.08s-10.71-1.42-13.22,4-12.7,17.72-27.18,14.35S1116,546.77,1114.5,546s-17.21-5.65-17.21-5.65,17.37,2.83,21.76,2.45,8.76-2.92,10.2.21a55.93,55.93,0,0,0,3.92,6.76"/><path class="cls-7" d="M1144,515.94s9.63-6.62,11.37-7.35,2.79-1.52,1.54,1.84-2.8,8.31-2,11.62-.06,5.59-1.68,6.34c-1.74-1.53-5.43-5.14-9.21-12.46"/><path class="cls-7" d="M724.17,853.73s-.36-3.37-5.13-8.07c-2.17-2.22-10.29-15.79,2.83-36.53.26-.44.63-.88,1.2,2.85s1.83,12.74,17.26,20.42c.7-1.82,6.76-9.85,13.77-9.28s11.38,6,12.64,8a24.13,24.13,0,0,0,3.33,3.8c.32.37.74,1.09-.66,1.23s-10.78.69-12.2,6.48-9,19.85-23.88,19.34-26.62-7.85-28.21-8.3-18-2.21-18-2.21,17.58-.59,21.82-1.82,8-4.56,10-1.77a55.77,55.77,0,0,0,5.16,5.88"/><path class="cls-7" d="M728.19,818.44s8.16-8.36,9.73-9.41,2.44-2,1.87,1.51-1.14,8.7.27,11.79,1,5.49-.43,6.55c-2-1.17-6.32-4-11.44-10.44"/><path class="cls-7" d="M1079.5,760.22s-3.55,2.12-11.25-.36-24.95-8.23-26-9.84-4.27-3.3-3.13,1.76,4.68,16.6,26.2,30.32c.21.14.83.57,0,.75s-1.06-.51-2.21,1-4.58,8.76-22.57,10.06c1.87.62,18.67,6.11,31.54,1.88s24-9.83,21.46-33.48c-.14-.57.41-1.23.82-1.18s2.78-2.58,3.49-3.82.86-4.76,8.57-2.11c.35.1,2.26.84-.07-1.84-5.24-6-13.11-9.85-19.47-9-4.06.84-9.56,2-12.77,8.81-.26.82-1.7,5,.13,6.25,1.28.91,3.72.86,5.24.78"/><path class="cls-7" d="M1182.53,611.62s-3.55,2.12-11.26-.36-24.95-8.23-26-9.84-4.27-3.3-3.13,1.76,4.68,16.6,26.2,30.32c.21.14.83.57,0,.75s-1.06-.51-2.21,1-4.58,8.76-22.57,10.06c1.87.62,18.68,6.11,31.54,1.88s24-9.83,21.46-33.48c-.14-.57.42-1.23.82-1.18s2.78-2.58,3.49-3.82.86-4.76,8.57-2.11c.35.1,2.26.84-.07-1.84-5.24-6-13.11-9.85-19.47-9-4.06.84-9.56,2-12.77,8.81-.26.82-1.7,5,.14,6.25,1.27.91,3.72.86,5.25.78"/><path class="cls-7" d="M1088.22,720.56s17.94-5.94,30.17-20.93a66.6,66.6,0,0,0,6.59-13.21c1.57-4.3,5.88-16.22,12.73-15.69s11.07,0,19.12,7.33c0,0-5.89-.21-7.42,2.61a8.63,8.63,0,0,0-3.16,8.16c-1.57-.29-5.46-.4-7.94-2l-2.48-1.55a14,14,0,0,0,8.1,6.1c5.59,1.52,13.33,2.61,19-1.14.92-.73,3.72-2.3,2.28.78s-8.74,25.23-31.33,20c-1.77,1.19-1,4.45-35.61,7.3a95.6,95.6,0,0,1-10,2.19"/><path class="cls-7" d="M1125.12,680.62a28.47,28.47,0,0,0-2.73,5.64c-1.34,3.6-4,12-6.27,12.77-1.72-2.1-8.27-13-6.33-19s2.9-10.4,6.44-15.11c.41-.45,1-1.33,1.17,1.25s3.95,13.08,7.72,14.5"/><path class="cls-7" d="M663,764s17.93-5.94,30.17-20.93a66.52,66.52,0,0,0,6.59-13.22c1.57-4.3,5.88-16.21,12.73-15.69s11.07,0,19.12,7.33c0,0-5.89-.21-7.43,2.61a8.63,8.63,0,0,0-3.15,8.16c-1.57-.29-5.46-.4-7.94-2l-2.48-1.55a14,14,0,0,0,8.1,6.09c5.59,1.52,13.33,2.61,19-1.14.92-.73,3.72-2.3,2.28.78s-8.74,25.23-31.33,20c-1.77,1.19-1,4.45-35.61,7.3A96,96,0,0,1,663,764"/><path class="cls-7" d="M699.94,724.06a28.52,28.52,0,0,0-2.73,5.64c-1.33,3.59-4,12-6.27,12.77-1.72-2.1-8.27-13-6.33-19s2.9-10.4,6.44-15.11c.41-.45,1-1.33,1.17,1.25s3.95,13.08,7.72,14.5"/><path class="cls-7" d="M1004.41,580.59s-17.14-5.24-23.36-9.68-8.54-6.43-8.54-6.43-1.91-2.44-1.88.5-.24,16.7,13.32,27.78c2.5,2.15,6.17,5.39,7.05,6,.87.06,1.54-.4,1.33,1s-3.23,8.51-7.93,10.07-9.27,1.82-10.64,2.3-4.82,2.43-1.33,2.38,21.13,2.24,28.18-1.05,16.42-9.35,16.33-18.85c-.2-5.44-1-9.82,1.18-12.49s2.23-5,4.21-5.17,4.65-.52,4.65-.52-3.73-2.63-5.41-3.6-7.58-3.87-10.57-2.89-6.49,2.14-8.44,5.5c-.57,1.06-2.72,3.65,1.84,5.2"/><path class="cls-7" d="M1019.66,586.16s1.25,8-.36,11.25-2.25,4.67-2.66,5.29-1.11,2.64,1.39,2.37,9.47-1,15.17-3.68,13.11-10.17,13.11-10.17,2.22-3-1-2.47-16.53-.51-22-2.72c-1.24-.64-4-2.88-3.71.14"/><path class="cls-7" d="M844.29,780.72s-17.14-5.24-23.36-9.68-8.54-6.43-8.54-6.43-1.91-2.44-1.88.5-.24,16.7,13.32,27.78c2.5,2.15,6.17,5.39,7,6,.87.06,1.54-.4,1.34,1s-3.23,8.51-7.92,10.07-9.27,1.82-10.63,2.3-4.83,2.43-1.33,2.38,21.13,2.24,28.18-1.05,16.43-9.35,16.33-18.85c-.21-5.44-1-9.82,1.18-12.49s2.24-5,4.22-5.17,4.65-.52,4.65-.52-3.73-2.63-5.41-3.6S853.89,769,850.9,770s-6.49,2.14-8.44,5.5c-.57,1.06-2.72,3.65,1.84,5.2"/><path class="cls-7" d="M859.55,786.29s1.25,8-.36,11.25-2.25,4.67-2.66,5.29-1.11,2.64,1.39,2.37,9.47-1,15.16-3.68,13.11-10.17,13.11-10.17,2.22-3-1-2.47-16.53-.51-22-2.72c-1.23-.64-4-2.88-3.71.14"/><path class="cls-7" d="M1163.34,768.81s-17.14-5.24-23.36-9.68-8.54-6.42-8.54-6.42-1.91-2.44-1.88.5-.24,16.7,13.31,27.78c2.5,2.15,6.17,5.39,7.05,6,.87.05,1.54-.4,1.33,1s-3.23,8.51-7.93,10.07-9.27,1.82-10.63,2.3-4.83,2.43-1.33,2.38,21.13,2.24,28.18-1.05,16.42-9.35,16.33-18.85c-.2-5.44-1-9.82,1.18-12.5s2.23-5,4.21-5.17,4.65-.52,4.65-.52-3.73-2.63-5.41-3.6-7.58-3.87-10.57-2.89-6.49,2.14-8.44,5.5c-.57,1.06-2.72,3.65,1.84,5.21"/><path class="cls-7" d="M1178.59,774.38s1.25,8-.36,11.25-2.25,4.67-2.65,5.29-1.11,2.63,1.38,2.37,9.48-1,15.17-3.68,13.11-10.17,13.11-10.17,2.22-3-1-2.47-16.54-.51-22-2.73c-1.23-.64-4-2.88-3.71.14"/><path class="cls-7" d="M876.67,656.09s12.28,4.62,18.59,3.8,14.22-1.91,23.5-6.64,16.24-9.6,20.26-10,10.71-.29,13.86,3.86,4.87,10,6.09,11.88,1.72,2.7-.84,2.22-8.13-1.52-10.12.56-9.95,11.49-12,12.25-4.82.64-3-.92a68.15,68.15,0,0,0,6.33-6.46c1.32-1.66,1.58-3.86-.31-2.29s-11.11,8.25-13.42,20.44c-.6,2.44-1.57,7.21-1,11,0,.92-.29,1.51-2.88.11s-11.59-7.75-10.62-15.86a21.84,21.84,0,0,1,.28-4.85c.46-3.13.62-8.21-.2-5.41s-1.33,1.43-1.94,6.76c-1,0-12-3.36-16.2-7.81s-9-10.27-16.38-12.65"/><path class="cls-7" d="M918,649.59s10.75-19.31,21.33-19.82c1.27,0,5.76,0,4.76,1s-4.16,5.92-4.06,8.51c.14.63-.28,1.68-2,1.63s-5.37,1.35-9.07,3.91-4.54,4.78-10.95,4.79"/><rect class="cls-1" x="489.23" y="267.58" width="942.5" height="469.48"/><path class="cls-7" d="M2226.1,1056.87c0,166.86-135.27,302.13-302.13,302.13s-302.13-135.27-302.13-302.13S1757.12,754.75,1924,754.75,2226.1,890,2226.1,1056.87"/><path class="cls-7" d="M2030.1,1168.2c0,166.86-135.27,302.13-302.13,302.13s-302.13-135.27-302.13-302.13S1561.12,866.07,1728,866.07s302.13,135.27,302.13,302.13"/><path class="cls-7" d="M1581.85,1120.15c0,113.4-91.93,205.33-205.33,205.33s-205.33-91.93-205.33-205.33,91.93-205.33,205.33-205.33,205.33,91.93,205.33,205.33"/><path class="cls-7" d="M782,1033.29a165.1,165.1,0,1,1-165.1-165.1A165.1,165.1,0,0,1,782,1033.29"/><path class="cls-7" d="M584,1079.91a165.1,165.1,0,1,1-165.1-165.1A165.1,165.1,0,0,1,584,1079.91"/><path class="cls-7" d="M113.88,1011c0,121-98.07,219-219,219s-219-98.07-219-219,98.07-219,219-219,219,98.07,219,219"/><path class="cls-7" d="M216.89,988.43A112.52,112.52,0,1,1,104.37,875.91,112.52,112.52,0,0,1,216.89,988.43"/><path class="cls-7" d="M375.13,1056.87A112.52,112.52,0,1,1,262.61,944.35a112.52,112.52,0,0,1,112.52,112.52"/><path class="cls-7" d="M1343.28,1143.2a154.77,154.77,0,1,1-154.77-154.77,154.77,154.77,0,0,1,154.77,154.77"/><path class="cls-7" d="M1119.54,1142.63A154.77,154.77,0,1,1,964.77,987.87a154.77,154.77,0,0,1,154.77,154.77"/><path class="cls-7" d="M937.35,1092.87A109.44,109.44,0,1,1,827.91,983.44a109.44,109.44,0,0,1,109.44,109.44"/><g class="cls-8"><g class="cls-9"><path class="cls-7" d="M2227.45,1039.66c0,166.86-135.27,302.13-302.13,302.13s-302.13-135.27-302.13-302.13,135.27-302.13,302.13-302.13,302.13,135.27,302.13,302.13"/><path class="cls-7" d="M2031.45,1151c0,166.86-135.27,302.13-302.13,302.13S1427.19,1317.84,1427.19,1151s135.27-302.13,302.13-302.13S2031.45,984.12,2031.45,1151"/><path class="cls-7" d="M1583.19,1102.93c0,113.4-91.93,205.33-205.33,205.33s-205.33-91.93-205.33-205.33,91.93-205.33,205.33-205.33,205.33,91.93,205.33,205.33"/><path class="cls-7" d="M783.29,1016.07A165.1,165.1,0,1,1,618.2,851a165.1,165.1,0,0,1,165.1,165.1"/><path class="cls-7" d="M585.36,1062.7a165.1,165.1,0,1,1-165.1-165.1,165.1,165.1,0,0,1,165.1,165.1"/><path class="cls-7" d="M115.22,993.77c0,121-98.07,219-219,219s-219-98.07-219-219,98.07-219,219-219,219,98.07,219,219"/><path class="cls-7" d="M218.23,971.22A112.52,112.52,0,1,1,105.71,858.7,112.52,112.52,0,0,1,218.23,971.22"/><path class="cls-7" d="M376.47,1039.66A112.52,112.52,0,1,1,264,927.13a112.52,112.52,0,0,1,112.52,112.52"/><path class="cls-7" d="M352.7,1195.77c0,105.67-85.66,191.32-191.32,191.32S-30,1301.43-30,1195.77s85.66-191.32,191.32-191.32S352.7,1090.1,352.7,1195.77"/><path class="cls-7" d="M1344.63,1126a154.77,154.77,0,1,1-154.77-154.77A154.77,154.77,0,0,1,1344.63,1126"/><path class="cls-7" d="M1120.88,1125.42A154.77,154.77,0,1,1,966.11,970.65a154.77,154.77,0,0,1,154.77,154.77"/><path class="cls-7" d="M938.69,1075.66A109.44,109.44,0,1,1,829.26,966.22a109.44,109.44,0,0,1,109.44,109.44"/></g></g><path class="cls-10" d="M1671.21,163.4a28.69,28.69,0,1,1-28.69-28.69,28.69,28.69,0,0,1,28.69,28.69"/><path class="cls-10" d="M1893.4,146.17A35.41,35.41,0,1,1,1858,110.76a35.41,35.41,0,0,1,35.41,35.41"/><path class="cls-10" d="M1846.36,123.4c0,30.4-34.6,55-77.27,55s-77.27-24.65-77.27-55,34.6-55,77.27-55,77.27,24.65,77.27,55"/><path class="cls-10" d="M1716.4,121.14c7.47,8.63.58,26.84-15.4,40.66s-35,18-42.45,9.39-.58-26.84,15.4-40.66,35-18,42.45-9.39"/><path class="cls-10" d="M1893.4,194c-9.57,9.43-264.21,15.51-277.56,0s0-39,0-39l277.56-14.49s9.57,44.07,0,53.5"/><g class="cls-11"><g class="cls-12"><path class="cls-7" d="M151.2,144.39a8.49,8.49,0,1,1-8.49-8.49,8.49,8.49,0,0,1,8.49,8.49"/><path class="cls-7" d="M217,139.29a10.48,10.48,0,1,1-10.48-10.48A10.48,10.48,0,0,1,217,139.29"/><path class="cls-7" d="M203.05,132.55c0,9-10.24,16.3-22.88,16.3s-22.88-7.3-22.88-16.3,10.24-16.3,22.88-16.3,22.88,7.3,22.88,16.3"/><path class="cls-7" d="M164.58,131.88c2.21,2.56.17,7.95-4.56,12s-10.36,5.34-12.57,2.78-.17-7.95,4.56-12,10.36-5.34,12.57-2.78"/><path class="cls-7" d="M217,153.44c-2.83,2.79-78.22,4.59-82.17,0s0-11.55,0-11.55L217,137.6s2.83,13,0,15.84"/></g></g><g class="cls-13"><g class="cls-14"><path class="cls-7" d="M566.21,163.91a11.5,11.5,0,1,1-11.5-11.5,11.5,11.5,0,0,1,11.5,11.5"/><path class="cls-7" d="M655.31,157a14.2,14.2,0,1,1-14.2-14.2,14.2,14.2,0,0,1,14.2,14.2"/><path class="cls-7" d="M636.45,147.87c0,12.19-13.87,22.07-31,22.07s-31-9.88-31-22.07,13.88-22.08,31-22.08,31,9.88,31,22.08"/><path class="cls-7" d="M584.33,147c3,3.46.23,10.76-6.17,16.31s-14,7.23-17,3.77-.23-10.76,6.18-16.31,14-7.23,17-3.77"/><path class="cls-7" d="M655.31,176.16c-3.84,3.78-106,6.22-111.31,0s0-15.64,0-15.64l111.31-5.81s3.84,17.67,0,21.45"/></g></g></g></g><circle class="cls-15" cx="1332.84" cy="568.09" r="29.75"/><path class="cls-16" d="M1328.68,567.53c-.46,0-8.8.87-8.8-13,0,0,0-2.09,3.28-2.09s8.77,0,11.45,2.7,3.59,5.75,4.66,9.22h.7v-12.7h2.51a3,3,0,0,1,3.33,3.26v26.19s0,3.39-3.26,3.39h-1.71V571H1340s-1.67,10.59-11.33,12.38a45,45,0,0,1-6.37.35s-2.38.19-2.38-2.73.34-12.64,8.82-12.64C1328.7,568.37,1328.68,567.72,1328.68,567.53Z"/><text class="cls-17" transform="translate(451.7 362.34)">LEADERSHIP</text></svg>
+
+<script>
+	(function (lib, img, cjs, ss, an) {
+
+var p; // shortcut to reference prototypes
+lib.webFontTxtInst = {}; 
+var loadedTypekitCount = 0;
+var loadedGoogleCount = 0;
+var gFontsUpdateCacheList = [];
+var tFontsUpdateCacheList = [];
+lib.ssMetadata = [];
+
+
+
+lib.updateListCache = function (cacheList) {		
+	for(var i = 0; i < cacheList.length; i++) {		
+		if(cacheList[i].cacheCanvas)		
+			cacheList[i].updateCache();		
+	}		
+};		
+
+lib.addElementsToCache = function (textInst, cacheList) {		
+	var cur = textInst;		
+	while(cur != exportRoot) {		
+		if(cacheList.indexOf(cur) != -1)		
+			break;		
+		cur = cur.parent;		
+	}		
+	if(cur != exportRoot) {		
+		var cur2 = textInst;		
+		var index = cacheList.indexOf(cur);		
+		while(cur2 != cur) {		
+			cacheList.splice(index, 0, cur2);		
+			cur2 = cur2.parent;		
+			index++;		
+		}		
+	}		
+	else {		
+		cur = textInst;		
+		while(cur != exportRoot) {		
+			cacheList.push(cur);		
+			cur = cur.parent;		
+		}		
+	}		
+};		
+
+lib.gfontAvailable = function(family, totalGoogleCount) {		
+	lib.properties.webfonts[family] = true;		
+	var txtInst = lib.webFontTxtInst && lib.webFontTxtInst[family] || [];		
+	for(var f = 0; f < txtInst.length; ++f)		
+		lib.addElementsToCache(txtInst[f], gFontsUpdateCacheList);		
+
+	loadedGoogleCount++;		
+	if(loadedGoogleCount == totalGoogleCount) {		
+		lib.updateListCache(gFontsUpdateCacheList);		
+	}		
+};		
+
+lib.tfontAvailable = function(family, totalTypekitCount) {		
+	lib.properties.webfonts[family] = true;		
+	var txtInst = lib.webFontTxtInst && lib.webFontTxtInst[family] || [];		
+	for(var f = 0; f < txtInst.length; ++f)		
+		lib.addElementsToCache(txtInst[f], tFontsUpdateCacheList);		
+
+	loadedTypekitCount++;		
+	if(loadedTypekitCount == totalTypekitCount) {		
+		lib.updateListCache(tFontsUpdateCacheList);		
+	}		
+};
+// symbols:
+// helper functions:
+
+function mc_symbol_clone() {
+	var clone = this._cloneProps(new this.constructor(this.mode, this.startPosition, this.loop));
+	clone.gotoAndStop(this.currentFrame);
+	clone.paused = this.paused;
+	clone.framerate = this.framerate;
+	return clone;
+}
+
+function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
+	var prototype = cjs.extend(symbol, cjs.MovieClip);
+	prototype.clone = mc_symbol_clone;
+	prototype.nominalBounds = nominalBounds;
+	prototype.frameBounds = frameBounds;
+	return prototype;
+	}
+
+
+(lib.ClipGroup_1 = function(mode,startPosition,loop) {
+	this.initialize(mode,startPosition,loop,{});
+
+	// Layer 2 (mask)
+	var mask = new cjs.Shape();
+	mask._off = true;
+	mask.graphics.p("AmpDIIAAmPINTAAIAAGPg");
+	mask.setTransform(42.6,20);
+
+	// Layer 3
+	this.shape = new cjs.Shape();
+	this.shape.graphics.f("#FCFDFB").s().p("AmXBBQgZgcAKguIAPgoIM0grIALBFQAHBHgSARQgYAXl+AFIhZAAQktAAgYgcg");
+	this.shape.setTransform(42.6,30.7);
+
+	this.shape_1 = new cjs.Shape();
+	this.shape_1.graphics.f("#FCFDFB").s().p("AhVBKQgQgTANgjQAOgjAjgeQAkgfAjgIQAlgIARATQAQATgNAjQgNAigkAfQgjAfgkAIQgLADgJAAQgWAAgMgOg");
+	this.shape_1.setTransform(23,23);
+
+	this.shape_2 = new cjs.Shape();
+	this.shape_2.graphics.f("#FCFDFB").s().p("AihBzQhDgvAAhEQAAhCBDgwQBDgwBeAAQBfAABDAwQBDAwAABCQAABEhDAvQhDAwhfAAQheAAhDgwg");
+	this.shape_2.setTransform(47.1,16.3);
+
+	this.shape_3 = new cjs.Shape();
+	this.shape_3.graphics.f("#FCFDFB").s().p("AhJBKQgfgfAAgrQAAgqAfgfQAfgfAqAAQArAAAfAfQAfAfAAAqQAAArgfAfQgfAfgrAAQgqAAgfgfg");
+	this.shape_3.setTransform(73.5,23);
+
+	this.shape_4 = new cjs.Shape();
+	this.shape_4.graphics.f("#FCFDFB").s().p("Ag7A8QgZgYAAgkQAAgiAZgZQAZgZAiAAQAjAAAZAZQAZAZAAAiQAAAjgZAZQgZAZgjAAQgiAAgZgZg");
+	this.shape_4.setTransform(9.7,28.2);
+
+	var maskedShapeInstanceList = [this.shape,this.shape_1,this.shape_2,this.shape_3,this.shape_4];
+
+	for(var shapedInstanceItr = 0; shapedInstanceItr < maskedShapeInstanceList.length; shapedInstanceItr++) {
+		maskedShapeInstanceList[shapedInstanceItr].mask = mask;
+	}
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.shape_4},{t:this.shape_3},{t:this.shape_2},{t:this.shape_1},{t:this.shape}]}).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.ClipGroup_1, new cjs.Rectangle(0,0,85.2,40), null);
+
+
+(lib.ClipGroup = function(mode,startPosition,loop) {
+	this.initialize(mode,startPosition,loop,{});
+
+	// Layer 2 (mask)
+	var mask = new cjs.Shape();
+	mask._off = true;
+	mask.graphics.p("ApAEPIAAodISBAAIAAIdg");
+	mask.setTransform(57.7,27.1);
+
+	// Layer 3
+	this.shape = new cjs.Shape();
+	this.shape.graphics.f("#FCFDFB").s().p("AooBYQgigmAOg+IAUg3IRYg6IAPBdQAJBhgYAXQgOAOioALQihALjQACIh3AAQmZAAghgmg");
+	this.shape.setTransform(57.7,41.5);
+
+	this.shape_1 = new cjs.Shape();
+	this.shape_1.graphics.f("#FCFDFB").s().p("AhzBkQgXgaATgwQARgvAxgpQAwgpAxgLQAygMAWAaQAXAagTAwQgRAvgxApQgwAqgxALQgOAEgNAAQgdAAgQgTg");
+	this.shape_1.setTransform(31.1,31.2);
+
+	this.shape_2 = new cjs.Shape();
+	this.shape_2.graphics.f("#FCFDFB").s().p("AjaCcQhbhBAAhbQAAhaBbhBQBbhBB/AAQCAAABbBBQBbBBAABaQAABbhbBBQhbBBiAAAQh/AAhbhBg");
+	this.shape_2.setTransform(63.8,22.1);
+
+	this.shape_3 = new cjs.Shape();
+	this.shape_3.graphics.f("#FCFDFB").s().p("AhjBkQgqgpAAg7QAAg6AqgqQApgpA6AAQA6AAAqApQAqAqAAA6QAAA7gqApQgqAqg6AAQg6AAgpgqg");
+	this.shape_3.setTransform(99.5,31.2);
+
+	this.shape_4 = new cjs.Shape();
+	this.shape_4.graphics.f("#FCFDFB").s().p("AhRBSQghgjAAgvQAAgvAhghQAigiAvAAQAwAAAiAiQAhAhAAAvQAAAvghAjQgiAhgwAAQgvAAgighg");
+	this.shape_4.setTransform(13.1,38.1);
+
+	var maskedShapeInstanceList = [this.shape,this.shape_1,this.shape_2,this.shape_3,this.shape_4];
+
+	for(var shapedInstanceItr = 0; shapedInstanceItr < maskedShapeInstanceList.length; shapedInstanceItr++) {
+		maskedShapeInstanceList[shapedInstanceItr].mask = mask;
+	}
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.shape_4},{t:this.shape_3},{t:this.shape_2},{t:this.shape_1},{t:this.shape}]}).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.ClipGroup, new cjs.Rectangle(0,0,115.4,54.2), null);
+
+
+(lib.Symbol1 = function(mode,startPosition,loop) {
+	this.initialize(mode,startPosition,loop,{});
+
+	// Layer 1
+	this.shape = new cjs.Shape();
+	this.shape.graphics.f("#FCFDFB").s().p("Ag/ACQBPhhBCgDQAQgBAQACQAWADgGAGQgKAJgPAbQgQAfAAASQACAFgFAFQgFAGgMgBQgOAAgYAKQgaALgaASQgeAZgOAJQgZAOgoAAg");
+	this.shape.setTransform(267.5,165.6,0.998,0.998);
+
+	this.shape_1 = new cjs.Shape();
+	this.shape_1.graphics.f("#FCFDFB").s().p("AAgEEQgjgTgfgjQgug0AHg1QgCgRAEgfQAEgbAAgXQAAgXgGAUIgKAXQgFAMgEAfQgOABg3gXQhCgbgbgcQg2g5gQgOQgsgmgtgQIBAAVQBOAVAngFQBAgIArgLQBCgQA9ggQAvgXBKgrQA5gfAZgDQBmgJAkAwQATAZATArQAUAvADAEQALAQgBAEQgBAFgRgDQhRgQgUAWIg8BCQgwAzgMAEQgRAHgNgDQgNgCAMgLQAOgMAUgUQAUgTAKgNQAKgNAAgKQAAgLgOALQgtAmgUAYQg2BAgPBOQgQBCAHAsQAAAIgFABIgCAAQgHAAgPgIg");
+	this.shape_1.setTransform(255,195.8,0.998,0.998);
+
+	this.shape_2 = new cjs.Shape();
+	this.shape_2.graphics.f("#FCFDFB").s().p("AiZBeQgBgIAFgIIAag0QAKgVgCgvIgEgsQgCgTAPAFQAIACAQALQAmAPBPAJQBKAHAcgEQAUgEgDAOQgCAHgGAIQgSASgaAVQgzAsgkARQgjASgzAKQgWAEgqAFIgEAAQgMAAgCgIg");
+	this.shape_2.setTransform(526.4,308.7,0.998,0.998);
+
+	this.shape_3 = new cjs.Shape();
+	this.shape_3.graphics.f("#FCFDFB").s().p("AiHECQhugHgSAAQgXABAMgLQAJgIAPgGQAEgBAlgGQAmgHAcgJQAegKAagpQAUgfADgSQACgJgFgBIgKAAQgGgEhBg4QiFhsAAipQAAgSAJAFQAFACAFAGIATAQIBCAxQAnAbBlAmQAyASArANQgdgKAAgSQABgFAJgTQANgWAagOQAPgJAfgKQATgGAnANQAaAKAWAMQAQAKAmAaIgvAFQgLABgJAQQgQAdgGAGQgOARgBAjQAAAUADA0QABBAg3A2QgpAnhEAgQgmARhbAAIgYAAg");
+	this.shape_3.setTransform(493.7,303.2,0.998,0.998);
+
+	this.shape_4 = new cjs.Shape();
+	this.shape_4.graphics.f("#FCFDFB").s().p("AiZBeQgBgIAFgHIAag1QAKgVgCgvIgEgsQgCgTAPAFQAIACAQALQAmAPBQAJQBKAHAbgEQAUgEgDAOQgCAHgGAIIgsAnQgzAsgkARQg4AcheAJIgEAAQgMAAgCgIg");
+	this.shape_4.setTransform(208.1,320.6,0.998,0.998);
+
+	this.shape_5 = new cjs.Shape();
+	this.shape_5.graphics.f("#FCFDFB").s().p("AiHECQhugHgSAAQgXABAMgLQAJgIAQgGIAogHQAmgHAcgJQAegKAagpQAVgfACgSQACgJgFgBIgKAAIhHg8QiFhsAAipQAAgSAJAFQAFACAFAGIATAQIBCAxQAnAcBlAlQAyASArANQgdgKAAgSQABgGAKgSQANgWAZgOQAOgIAggLQATgGAnANQAbAKAVAMQAQAKAmAaIgvAFQgLABgJAQQgQAdgGAGQgOARgBAjQAAAUADA0QABBwikBNQglARhZAAIgbAAg");
+	this.shape_5.setTransform(175.3,315.1,0.998,0.998);
+
+	this.shape_6 = new cjs.Shape();
+	this.shape_6.graphics.f("#FCFDFB").s().p("AiZBdQgBgHAFgIIAJgQIASglQAKgUgCgvIgFgsQgCgTAPAFQAIACAQAKQAmAQBQAJQBKAHAbgEQAUgEgDAOQgCAHgFAHQgTATgaAVQgzAsgkARQg3AbhfAKIgFAAQgLAAgCgJg");
+	this.shape_6.setTransform(367.8,120.9,0.998,0.998);
+
+	this.shape_7 = new cjs.Shape();
+	this.shape_7.graphics.f("#FCFDFB").s().p("AiHECQhugHgSAAQgXAAAMgKQAJgJAQgFQADgBAlgGQAngHAbgJQAegKAagpQAVggACgSQACgIgEgBIgLAAIhHg8QiFhsAAipQAAgSAKAFQAEACAFAGIAUAQQAbAVAmAbQAnAcBmAlQAxATArANQgdgKABgSQAAgFAKgTQANgWAZgOQAQgJAegKQATgGAnANQAZAJAXANQARAKAlAaIgvAFQgLABgJAQQgQAcgGAHQgOARgBAjQAAAUADA0QABBAg3A1QgpAohEAfQglAShZAAIgbAAg");
+	this.shape_7.setTransform(335.1,115.4,0.998,0.998);
+
+	this.shape_8 = new cjs.Shape();
+	this.shape_8.graphics.f("#FCFDFB").s().p("Ag4BdQgehHAMgmIAahRQAPgoAXgeQAGgGABABQADAAABARQACAaAXAzQAbA7AZAJIgIAOQgLATgIAXIgcBKQgUAwgOAFQgWgcgXg0g");
+	this.shape_8.setTransform(29,250.9,0.998,0.998);
+
+	this.shape_9 = new cjs.Shape();
+	this.shape_9.graphics.f("#FCFDFB").s().p("AkZDJQB4hDBNheQAOgUAUgnQATgnANghQAVg+AVgjQAog/AsADQBIAGATAFQAvAOA1AwQgOAAgRADQgiAGgJARIgUAWQgQAZAEAjIgkgFQgcgFgPgKIgZgPIAUAZQAaAaAjAKQB5AiBFguQAMgJAIgBQAMgCgJAUIgYAzQgXAugfAhQhdBmiPghIgOANQgOAJgbAJQhQAYjcASQgrANg5AJQAtgPA8ghg");
+	this.shape_9.setTransform(38.6,264.8,0.998,0.998);
+
+	this.shape_10 = new cjs.Shape();
+	this.shape_10.graphics.f("#FCFDFB").s().p("Ag3BdQgfhHAMgmIAbhQQAPgoAXgfQAFgGACABQACABACAQQABAaAYAzQAbA7AZAJIgJAOQgKATgJAXIgbBKQgVAwgNAFQgXgcgWg0g");
+	this.shape_10.setTransform(453.3,207.5,0.998,0.998);
+
+	this.shape_11 = new cjs.Shape();
+	this.shape_11.graphics.f("#FCFDFB").s().p("AkZDJQB5hDBMheQAOgUAUgnQAUgnAMghQAWhAAVghQAng/AsADQBIAGATAFQAvAOA1AwQgOAAgRADQghAGgKARQgLAKgIAMQgQAZAEAjQgWgCgPgDQgbgFgQgKIgZgPIAUAZQAbAaAiAKQB7AiBDguQAMgJAIgBQAMgCgJAUQgqBcgjAnQheBliOghQgIAIgHAFQgNAJgbAJQhRAYjbASQgcAIgnAIIgiAGg");
+	this.shape_11.setTransform(462.9,221.4,0.998,0.998);
+
+	this.shape_12 = new cjs.Shape();
+	this.shape_12.graphics.f("#FCFDFB").s().p("AjRECQg8gJg5gSQBygIA+gqQAUgNAegmQAHgJAFgBIAKAAQAIgBgIgGQjhiPglifQgHgiAPAAQAOgBAKARQAGALBiAjQBGAZBVAbQAwAQAkgFQATgCAJgFQgmACgPgKQgQgLAPgzQAVgtAogWQAXgNAsgIQAvgHA2AZQA1AZAoAuQAPARgEADQgCABgIgCQgxgRgUANQgEACgNAXQgFAJgNAOQgNAPgDAAQgEgBgDAEQgDAEABAFQARCfhCBQQgvA4h1AmQgxARg+AAQgpAAgvgIg");
+	this.shape_12.setTransform(512.1,148.2,0.998,0.998);
+
+	this.shape_13 = new cjs.Shape();
+	this.shape_13.graphics.f("#FCFDFB").s().p("AjRECQg8gJg4gSQBxgIA/gqQAUgNAdgmQAHgJAFgBIAKAAQAJgBgIgGQjkiQgiieQgIgiAPAAQAOAAAKAQQAMATD3BPQAxAQAkgFQASgCAJgFQgmACgOgKQgRgLAPgzQAVgtAogWQAXgMAsgJQAvgHA3AZQA1AZAoAuQAOARgEADQgCABgIgCQgxgRgUANQgEACgMAXQgGAJgNAOQgNAPgDAAQgDgBgDAEQgDAEABAFQARCfhDBQQguA4h2AmQgxARg+AAQgpAAgvgIg");
+	this.shape_13.setTransform(409.3,296.5,0.998,0.998);
+
+	this.shape_14 = new cjs.Shape();
+	this.shape_14.graphics.f("#FCFDFB").s().p("Ag/AAIArgqQAsgtAKgHQAPgKACABQAFABgEAYQgNBSAQAiQAKAXgBASQgCARgLAIQg7gkg3hEg");
+	this.shape_14.setTransform(71.4,344,0.998,0.998);
+
+	this.shape_15 = new cjs.Shape();
+	this.shape_15.graphics.f("#FCFDFB").s().p("AAtEJQhbgDhigmQhUgngIgDQgKgDhWgJIhUgKIBegEQBigGAbgIQAVgGAlgSQAegLAMARQAUAcAgAfQgBgIgHgPQgOgcgegeQgjgjgIhNQgMh3BUiFQAGgLAGAoQAHAzAXAkQApBDBkAyQAKgYAjggQAvgpAuAEQAtAEAoAfQAZAUAQAZQAIAMAMANIAOANQAJAKgQABQgnAEgWAHQg0ARgJAlQgQBAg1A4QhFBJhcAAIgJAAg");
+	this.shape_15.setTransform(65.6,361,0.998,0.998);
+
+	this.shape_16 = new cjs.Shape();
+	this.shape_16.graphics.f("#FCFDFB").s().p("AhCgVIAygiQAzgjALgFQARgHACABQAFACgIAXQgdBNAIAmQAGAYgFARQgFAQgMAGQgzgtgohOg");
+	this.shape_16.setTransform(486.6,44.4,0.998,0.998);
+
+	this.shape_17 = new cjs.Shape();
+	this.shape_17.graphics.f("#FCFDFB").s().p("AAJEMQhZgVhZg5QhKg2gIgEQgOgIiegxIBdAOQBiANAbgCQAWgCAogKQAfgFAJATQAOAfAZAlQABgJgEgPQgIgfgYgiQgbgqAHhNQALh3BshyQAHgKgCAoQgCA0APAnQAdBLBYBEQANgWAqgYQA2gfAsAMQAsANAgAmQAVAXAMAcQAIAVARAXQAHAMgQgCQgqgDgUADQg2AGgQAiQgcA8g/AtQg/AthDAAQgZAAgagGg");
+	this.shape_17.setTransform(475.6,59,0.998,0.998);
+
+	this.shape_18 = new cjs.Shape();
+	this.shape_18.graphics.f("#FCFDFB").s().p("AhDAMIAmguQAngxAKgIQAOgMACABQAGAAgCAYQgGBRAVAjQAMAWABASQAAAQgLAKQg9gcg/hAg");
+	this.shape_18.setTransform(568,63.1,0.998,0.998);
+
+	this.shape_19 = new cjs.Shape();
+	this.shape_19.graphics.f("#FCFDFB").s().p("AiBDsQhXgfgIgBQgQgDilgBIBcgOQBhgQAagKQAUgIAkgWQAcgOAOAQQAXAaAjAbQgCgIgJgNQgQgbghgbQgmgggQhMQgZh0BGiNQADgFACADQAEAFAGAYQANAzAbAhQAwA/BoAnQAGgZAggjQArguAugBQAtgBArAbQAbASATAXQAPASAWAQQAEAEAAADQgBAEgIACQgoAJgUAIQgyAVgFAmQgJBBgvA+QhBBThhAHIghABQhMAAhUgXg");
+	this.shape_19.setTransform(564.5,81.1,0.998,0.998);
+
+	this.shape_20 = new cjs.Shape();
+	this.shape_20.graphics.f("#FCFDFB").s().p("AhCALIAmgtQAngxAJgIQAOgMACAAQAFABgBAYQgFBTAUAhQAMAVAAASQAAARgKAJQg8gbg/hBg");
+	this.shape_20.setTransform(287.4,261.6,0.998,0.998);
+
+	this.shape_21 = new cjs.Shape();
+	this.shape_21.graphics.f("#FCFDFB").s().p("AiBDsQhWgfgIgBQgLgChWgBIhVgBQCugXApgRQAVgIAjgVQAcgOAOAPQAYAaAiAbQgBgIgJgNQgRgbghgbQgmgggQhMQgYh0BFiNQAFgMALAnQAMAyAaAiQAxA/BoAnQAGgZAhgjQAqguAugBQAtgBArAbQAbASATAXQAPASAWAQQAEAEAAADQAAAEgJACQhrATgIA5QgIBBgwA+QhABThhAHIghABQhNAAhUgXg");
+	this.shape_21.setTransform(283.8,279.7,0.998,0.998);
+
+	this.shape_22 = new cjs.Shape();
+	this.shape_22.graphics.f("#FCFDFB").s().p("AhBgTIAxgjQAzgkALgFQARgHACABQAEABgHAXQgcBNAKAnQAGAYgEARQgFARgMAGQg0gugqhMg");
+	this.shape_22.setTransform(429.4,114.6,0.998,0.998);
+
+	this.shape_23 = new cjs.Shape();
+	this.shape_23.graphics.f("#FCFDFB").s().p("AANENQhZgThag3QhMg1gHgDQgPgHifguIBdAMQBiALAcgDQAWgDAngLQAfgFAKASQAPAfAZAkQABgIgEgQQgJgegYgiQgdgqAGhMQAIh4Bph0QAIgKgBAoQgBA0APAnQAeBKBaBCQANgWApgZQA2ghAsAMQAsALAhAmQAWAYALAaQAKAVARAWQAHAMgQgBQgngDgXAEQg2AHgPAjQgaA8g/AvQhAAvhGAAQgXAAgXgEg");
+	this.shape_23.setTransform(419.1,129.4,0.998,0.998);
+
+	this.shape_24 = new cjs.Shape();
+	this.shape_24.graphics.f("#FCFDFB").s().p("AhCALIAmguQAngxAJgHQAOgMACAAQAFABgBAYQgFBTAUAhQAMAVAAASQAAARgKAKQg7gbhAhCg");
+	this.shape_24.setTransform(376.4,188.7);
+
+	this.shape_25 = new cjs.Shape();
+	this.shape_25.graphics.f("#FCFDFB").s().p("AiADsQhXgfgJgBQgQgDilgBIBdgOQBhgQAagKQAUgIAjgWQAdgOAOAQQAXAaAiAbQgCgIgIgOQgRgbgggaQgngggQhMQgYh0BGiNQAFgMAJAnQANAyAbAiQAwA+BoAnQAHgYAggjQArguAtgBQAugBAqAbQAcASASAXQAJALAOALIAOAMQAKAJgPAEQgnAIgUAJQgyAVgGAmQgJBAgvA+QhABUhhAGIgjACQhMAAhSgXg");
+	this.shape_25.setTransform(372.8,206.8,0.998,0.998);
+
+	this.shape_26 = new cjs.Shape();
+	this.shape_26.graphics.f("#FCFDFB").s().p("AhDALIAnguQAngxAJgHQAOgMACAAQAGABgCAYQgGBRAVAjQAMAVAAASQAAARgKAKQg9gcg/hBg");
+	this.shape_26.setTransform(602.9,153.1,0.998,0.998);
+
+	this.shape_27 = new cjs.Shape();
+	this.shape_27.graphics.f("#FCFDFB").s().p("AiBDsQhXgegIgCQgQgDilAAIBcgOQBigQAZgLQAVgIAjgVQAcgOAOAPQAXAaAjAcQgCgJgIgNQgRgbghgaQgmghgQhLQgZh1BGiNQADgEACACQAEAFAGAYQANAzAbAhQAwA/BoAnQAGgZAhgjQArgtAtgBQAugBAqAbQAcARASAXQAJALAOAMIAOALQAKAKgPADQgoAJgUAJQgyAVgFAlQgJBBgvA+QhABThiAHIgjABQhLAAhTgXg");
+	this.shape_27.setTransform(599.3,171.2,0.998,0.998);
+
+	this.shape_28 = new cjs.Shape();
+	this.shape_28.graphics.f("#FCFDFB").s().p("AhCALIAmguQAngxAJgHQAOgMACAAQAFABgBAYQgFBSAUAiQAMAVAAATQABAQgLAJQg9gcg+hAg");
+	this.shape_28.setTransform(399.5,30.9,0.998,0.998);
+
+	this.shape_29 = new cjs.Shape();
+	this.shape_29.graphics.f("#FCFDFB").s().p("AiBDsQhXgfgIgBQgRgDikgBIBcgOQBigPAZgLQAVgIAjgVQAcgOAOAPQAXAaAjAbQgCgIgIgNQgRgbghgbQgngggQhMQgYh0BGiNQAFgMAKAnQANAzAaAhQAxA/BnAnQAHgZAhgjQArguAtgBQAtgBArAbQAcASASAXQAJALAOALIAOAMQAEAEAAADQAAAEgJACQhsAUgHA4QgKBBguA+QhABThiAHIghABQhMAAhUgXg");
+	this.shape_29.setTransform(395.9,49,0.998,0.998);
+
+	this.shape_30 = new cjs.Shape();
+	this.shape_30.graphics.f("#FCFDFB").s().p("AhCAMIAmguQAngyAJgHQAOgMACAAQAFABgBAYQgFBTAUAhQAMAWAAARQAAARgKAJQg8gag/hBg");
+	this.shape_30.setTransform(316.8,10.3,0.998,0.998);
+
+	this.shape_31 = new cjs.Shape();
+	this.shape_31.graphics.f("#FCFDFB").s().p("AiADsQhXgegJgCQgQgDilgBIBdgOQBhgPAagLQAUgIAjgVQAdgOAOAPQAXAaAiAbQgCgIgIgNQgQgbghgbQgngfgQhNQgYh0BGiNQAFgMAJAnQANAyAbAiQAwA/BoAnQAHgZAggjQArguAtgBQAugBAqAbQAcASASAXQAPASAWAQQAKAKgPADQhqATgJA5QgJBBgvA+QhABThhAHIghABQhMAAhUgXg");
+	this.shape_31.setTransform(313.2,28.4,0.998,0.998);
+
+	this.shape_32 = new cjs.Shape();
+	this.shape_32.graphics.f("#FCFDFB").s().p("AhDAMIAnguQAngxAJgIQAOgMACABQAGAAgCAYQgFBTAUAhQAMAVAAASQAAARgKAKQg9gcg/hAg");
+	this.shape_32.setTransform(149.4,209.9,0.998,0.998);
+
+	this.shape_33 = new cjs.Shape();
+	this.shape_33.graphics.f("#FCFDFB").s().p("AiBDsQhXgfgIgBQgKgChXgBIhUgBQCugYApgQQAVgIAjgWQAdgOAOAQQAWAaAjAbQgCgIgIgNQgRgbghgbQgmgggQhMQgZh0BGiNQACgFADADQAEAFAGAYQANAyAaAiQAxA/BnAnQAHgZAhgjQArguAtgBQAtgBArAbQAcASASAXQAOASAXAQQAEAEAAADQAAAEgJACQgpAJgTAIQgyAVgFAmQgJBBgvA+QhABThiAHIghABQhMAAhUgXg");
+	this.shape_33.setTransform(145.8,227.9,0.998,0.998);
+
+	this.shape_34 = new cjs.Shape();
+	this.shape_34.graphics.f("#FCFDFB").s().p("AhIAhIAdg1QAeg3AIgJQAKgOADAAQAFgBADAYQALBSAZAdQARATADARQADARgIALQhDgRhIgyg");
+	this.shape_34.setTransform(544.9,221.4,0.998,0.998);
+
+	this.shape_35 = new cjs.Shape();
+	this.shape_35.graphics.f("#FCFDFB").s().p("AkfDfQBdgiAXgPQASgLAfgcQAZgTARANQAbAVAnAUQgDgHgLgMQgVgYglgTQgsgYgehIQguhuAriXQABgFADACQAFAEAKAWQAXAwAgAbQA7A1BtATQACgaAagoQAhg1AtgKQAsgJAvASQAdAMAYAUQARAPAZAMQAMAHgPAGQgmARgRAMQgtAfACAlQAEBBgkBFQgvBeheAZQhaAXhogIQhbgOgIAAQgRAAiiAeg");
+	this.shape_35.setTransform(545.4,242.6,0.998,0.998);
+
+	this.shape_36 = new cjs.Shape();
+	this.shape_36.graphics.f("#FCFDFB").s().p("AhCAMIAmguQAngxAJgIQAOgMACABQAFAAgBAYQgFBTAUAhQAMAVAAASQAAARgKAKQg9gcg+hAg");
+	this.shape_36.setTransform(436.4,354.5,0.998,0.998);
+
+	this.shape_37 = new cjs.Shape();
+	this.shape_37.graphics.f("#FCFDFB").s().p("AiBDsQhWgfgJgBQgQgDilgBQCvgYAogQQAVgIAjgWQAdgOANAQQAXAaAjAbQgBgIgJgNQgRgbgggbQgngggQhMQgZh0BHiNQAEgLALAmQANAyAaAiQAwA+BoAoQAGgZAhgjQArguAtgBQAugBAqAbQAbASATAXQAOASAXAQQAEADAAAEQAAAEgJACQgnAIgUAJQgyAVgGAmQgJBBgvA+QhABThhAHIghABQhNAAhUgXg");
+	this.shape_37.setTransform(432.8,372.6,0.998,0.998);
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.shape_37},{t:this.shape_36},{t:this.shape_35},{t:this.shape_34},{t:this.shape_33},{t:this.shape_32},{t:this.shape_31},{t:this.shape_30},{t:this.shape_29},{t:this.shape_28},{t:this.shape_27},{t:this.shape_26},{t:this.shape_25},{t:this.shape_24},{t:this.shape_23},{t:this.shape_22},{t:this.shape_21},{t:this.shape_20},{t:this.shape_19},{t:this.shape_18},{t:this.shape_17},{t:this.shape_16},{t:this.shape_15},{t:this.shape_14},{t:this.shape_13},{t:this.shape_12},{t:this.shape_11},{t:this.shape_10},{t:this.shape_9},{t:this.shape_8},{t:this.shape_7},{t:this.shape_6},{t:this.shape_5},{t:this.shape_4},{t:this.shape_3},{t:this.shape_2},{t:this.shape_1},{t:this.shape}]}).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.Symbol1, new cjs.Rectangle(0,0,639.8,398.5), null);
+
+
+(lib.leadershiptext = function(mode,startPosition,loop) {
+if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
+
+	// Layer 1
+	this.text = new cjs.Text("LEADERSHIP", "bold 202px 'Source Sans Pro'", "#FFFFFF");
+	this.text.lineHeight = 294;
+	this.text.parent = this;
+	this.text.setTransform(455,114.2,0.116,0.116);
+	this.text._off = true;
+
+	this.timeline.addTween(cjs.Tween.get(this.text).wait(14).to({_off:false},0).wait(1).to({scaleX:0.16,scaleY:0.37,x:434.8,y:82.7},0).wait(1).to({scaleX:0.28,scaleY:0.61,x:373.7,y:51.2},0).wait(1).to({scaleX:0.47,scaleY:0.86,x:272.1,y:19.7},0).wait(1).to({scaleX:0.75,scaleY:1.11,x:129.6,y:-11.8},0).wait(1).to({scaleX:1.11,x:-53.4},0).wait(1).to({scaleX:1.11,x:-54.2},0).wait(21).to({_off:true},1).wait(2).to({_off:false,scaleX:1.17,scaleY:1.17,x:-82.5,y:-18.8},0).wait(1));
+
+}).prototype = p = new cjs.MovieClip();
+p.nominalBounds = null;
+
+
+(lib.ClipGroup_2 = function(mode,startPosition,loop) {
+	this.initialize(mode,startPosition,loop,{});
+
+	// Layer 2 (mask)
+	var mask_1 = new cjs.Shape();
+	mask_1._off = true;
+	mask_1.graphics.p("EjHPA36MAAAhvzMGOfAAAMAAABvzg");
+	mask_1.setTransform(1275.2,357.8);
+
+	// Layer 3
+	this.shape_5 = new cjs.Shape();
+	this.shape_5.graphics.f("#FCFDFB").s().p("AmpPwQjEhTiYiXQiXiYhTjEQhWjMAAjeQAAjeBWjLQBTjECXiYQCYiYDEhTQDMhVDdAAQDfAADLBVQDEBTCYCYQCXCYBTDEQBWDLAADeQAADehWDMQhTDEiXCYQiYCXjEBTQjLBXjfAAQjdAAjMhXg");
+	this.shape_5.setTransform(1152.1,338.1);
+
+	this.shape_6 = new cjs.Shape();
+	this.shape_6.graphics.f("#FCFDFB").s().p("ApZWSQkWh1jWjXQjXjWh1kWQh6kfAAk7QAAk6B6kgQB1kVDXjWQDWjXEWh1QEfh6E6AAQE7AAEgB6QEVB1DWDXQDXDWB1EVQB6EgAAE6QAAE7h6EfQh1EWjXDWQjWDXkVB1QkgB6k7AAQk6AAkfh6g");
+	this.shape_6.setTransform(1289,387.9);
+
+	this.shape_7 = new cjs.Shape();
+	this.shape_7.graphics.f("#FCFDFB").s().p("ApZWSQkWh1jWjXQjXjWh1kVQh6kgAAk7QAAk6B6kfQB1kWDXjWQDWjXEWh1QEfh6E6AAQE7AAEgB6QEVB1DWDXQDXDWB1EWQB6EfAAE6QAAE7h6EgQh1EVjXDWQjWDXkVB1QkgB6k7AAQk6AAkfh6g");
+	this.shape_7.setTransform(1512.7,388.4);
+
+	this.shape_8 = new cjs.Shape();
+	this.shape_8.graphics.f("#FCFDFB").s().p("ArnbjQlYiRkJkJQkJkJiRlXQiWlkAAmFQAAmECWlkQCRlXEJkJQEJkJFYiRQFjiWGEAAQGFAAFkCWQFXCREJEJQEJEJCRFXQCWFkAAGEQAAGFiWFkQiRFXkJEJQkJEJlXCRQlkCWmFAAQmEAAljiWg");
+	this.shape_8.setTransform(484.2,458.2);
+
+	this.shape_9 = new cjs.Shape();
+	this.shape_9.graphics.f("#FCFDFB").s().p("Am1QNQjKhWicibQibichWjKQhYjRAAjlQAAjkBYjRQBWjKCbicQCcicDKhVQDRhYDkAAQDlAADRBYQDKBVCcCcQCbCcBWDKQBYDRAADkQAADlhYDRQhWDKibCcQicCbjKBWQjRBYjlAAQjkAAjRhYg");
+	this.shape_9.setTransform(586.8,302.1);
+
+	this.shape_10 = new cjs.Shape();
+	this.shape_10.graphics.f("#FCFDFB").s().p("Am1QNQjKhWicibQibichWjKQhYjRAAjlQAAjkBYjRQBWjKCbicQCcicDKhVQDRhYDkAAQDlAADRBYQDKBVCcCcQCbCcBWDKQBYDRAADkQAADlhYDRQhWDKibCcQicCbjKBWQjRBYjlAAQjkAAjRhYg");
+	this.shape_10.setTransform(428.6,233.7);
+
+	this.shape_11 = new cjs.Shape();
+	this.shape_11.graphics.f("#FCFDFB").s().p("AtTfiQmKimkvkvQkvkvinmKQismXAAm9QAAm9CsmXQCnmJEvkvQEvkvGKimQGXisG8AAQG+AAGWCsQGKCmEvEvQEvEvCnGJQCrGXABG9QgBG+irGWQinGKkvEvQkvEvmKCmQmWCsm+AAQm8AAmXisg");
+	this.shape_11.setTransform(219.1,256.2);
+
+	this.shape_12 = new cjs.Shape();
+	this.shape_12.graphics.f("#FCFDFB").s().p("AqCXxQkoh9jljlQjkjkh9koQiCkzAAlQQAAlPCCkyQB9kpDkjkQDljlEoh+QEziBFPAAQFQAAEyCBQEpB+DkDlQDlDkB9EpQCCEyAAFPQAAFQiCEzQh9EojlDkQjkDlkpB9QkyCClQAAQlPAAkziCg");
+	this.shape_12.setTransform(743.2,325.2);
+
+	this.shape_13 = new cjs.Shape();
+	this.shape_13.graphics.f("#FCFDFB").s().p("AqCXxQkoh9jkjkQjljlh9kpQiCkyAAlQQAAlOCCkzQB9koDljmQDkjkEoh9QEziCFPAAQFQAAEyCCQEpB9DkDkQDlDlB+EpQCBEyAAFPQAAFQiBEyQh+EpjlDlQjkDkkpB9QkyCClQAAQlPAAkziCg");
+	this.shape_13.setTransform(941.1,278.5);
+
+	this.shape_14 = new cjs.Shape();
+	this.shape_14.graphics.f("#FCFDFB").s().p("AsedkQlxickckcQkckciclxQihl9AAmiQAAmgChl+QCclxEckcQEckcFxicQF+ihGgAAQGiAAF9ChQFxCcEcEcQEcEcCcFxQChF+AAGgQAAGiihF9QicFxkcEcQkcEclxCcQl9ChmiAAQmgAAl+ihg");
+	this.shape_14.setTransform(1700.7,365.4);
+
+	this.shape_15 = new cjs.Shape();
+	this.shape_15.graphics.f("#FCFDFB").s().p("EgSXArgQoejlmimjQmimijmoeQjtoxAApnQAApmDtoxQDmoeGimiQGimiIejmQIyjtJlAAQJnAAIxDtQIeDlGiGjQGjGiDlIeQDtIxAAJmQAAJnjtIxQjlIemjGiQmiGjoeDlQoxDtpnAAQplAAoyjtg");
+	this.shape_15.setTransform(2052.2,413.4);
+
+	this.shape_16 = new cjs.Shape();
+	this.shape_16.graphics.f("#FCFDFB").s().p("EgSXArgQoejmmimiQmimijmoeQjtoyAApmQAApmDtoxQDmoeGimiQGimjIejlQIyjtJlAAQJnAAIxDtQIeDlGiGjQGjGiDlIeQDtIxAAJmQAAJmjtIyQjlIemjGiQmiGioeDmQoxDtpnAAQplAAoyjtg");
+	this.shape_16.setTransform(2248.2,302.1);
+
+	var maskedShapeInstanceList = [this.shape_5,this.shape_6,this.shape_7,this.shape_8,this.shape_9,this.shape_10,this.shape_11,this.shape_12,this.shape_13,this.shape_14,this.shape_15,this.shape_16];
+
+	for(var shapedInstanceItr = 0; shapedInstanceItr < maskedShapeInstanceList.length; shapedInstanceItr++) {
+		maskedShapeInstanceList[shapedInstanceItr].mask = mask_1;
+	}
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.shape_16},{t:this.shape_15},{t:this.shape_14},{t:this.shape_13},{t:this.shape_12},{t:this.shape_11},{t:this.shape_10},{t:this.shape_9},{t:this.shape_8},{t:this.shape_7},{t:this.shape_6},{t:this.shape_5}]}).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.ClipGroup_2, new cjs.Rectangle(0,0,2550.3,715.6), null);
+
+
+(lib.cloudstop = function(mode,startPosition,loop) {
+	this.initialize(mode,startPosition,loop,{});
+
+	// Layer 1
+	this.instance = new lib.ClipGroup();
+	this.instance.parent = this;
+	this.instance.setTransform(466.2,84.6,1,1,0,0,0,57.6,27.1);
+
+	this.instance_1 = new lib.ClipGroup_1();
+	this.instance_1.parent = this;
+	this.instance_1.setTransform(42.6,67.9,1,1,0,0,0,42.6,20);
+
+	this.shape = new cjs.Shape();
+	this.shape.graphics.f("#FFFFFF").s().p("AuGEqQmtgYgvg2QhUhhAiibQAKgxAVgxIATgnMArWgCRIAOBGQAPBWAHBMQAYDzg8A7QgiAimlAbQmQAaoGAGIj2ACQmIAAkfgRg");
+	this.shape.setTransform(1620.7,103.6);
+
+	this.shape_1 = new cjs.Shape();
+	this.shape_1.graphics.f("#FFFFFF").s().p("AkgD6Qg4hBAth3QAth2B3hnQB4hoB8gcQB8gbA4BBQA4BAgtB4QgtB2h4BnQh4Boh7AbQgmAJgfAAQhIAAgngug");
+	this.shape_1.setTransform(1554.5,77.8);
+
+	this.shape_2 = new cjs.Shape();
+	this.shape_2.graphics.f("#FFFFFF").s().p("AohGFQhrhMg7hiQg9hnAAhwQAAhvA9hnQA7hiBrhMQDiiiE/AAQFAAADiCiQBrBMA7BiQA9BnAABvQAABwg9BnQg7BihrBMQjiChlAAAQk/AAjiihg");
+	this.shape_2.setTransform(1636.1,55.1);
+
+	this.shape_3 = new cjs.Shape();
+	this.shape_3.graphics.f("#FFFFFF").s().p("Aj5D7QhohpAAiSQAAiRBohpQBnhnCSAAQCTAABnBnQBoBpAACRQAACShoBpQhnBniTAAQiSAAhnhng");
+	this.shape_3.setTransform(1725,77.8);
+
+	this.shape_4 = new cjs.Shape();
+	this.shape_4.graphics.f("#FFFFFF").s().p("AjKDLQhUhUAAh3QAAh2BUhUQBUhUB2AAQB3AABUBUQBUBUAAB2QAAB3hUBUQhUBUh3AAQh2AAhUhUg");
+	this.shape_4.setTransform(1509.5,95.1);
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.shape_4},{t:this.shape_3},{t:this.shape_2},{t:this.shape_1},{t:this.shape},{t:this.instance_1},{t:this.instance}]}).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.cloudstop, new cjs.Rectangle(0,0,1764.7,135.1), null);
+
+
+(lib.BIRDS = function(mode,startPosition,loop) {
+	this.initialize(mode,startPosition,loop,{});
+
+	// Layer 1
+	this.instance = new lib.Symbol1();
+	this.instance.parent = this;
+	this.instance.setTransform(319.9,199.2,1,1,0,0,0,319.9,199.2);
+
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.BIRDS, new cjs.Rectangle(0,0,639.8,398.5), null);
+
+
+// stage content:
+(lib.leadership = function(mode,startPosition,loop) {
+if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
+
+	// leadership text.ai
+	this.instance = new lib.leadershiptext();
+	this.instance.parent = this;
+	this.instance.setTransform(990,286.9,1,1,0,0,0,514.6,128.9);
+
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(26));
+
+	// leader logo.ai
+	this.shape = new cjs.Shape();
+	this.shape.graphics.f("#FFFFFF").s().p("ABQCkIAAiHIgJAAQgEAbgQAdQghA5g7ALQgWAEgqAAQgGAAgGgDQgMgHAAgSQAAgsANgeQAVg0A2AAIAAgHQgYACgVgPQgrgeAAhXQAAgFAEgGQAIgKAVAAQAnAAAVADQAkAGARASQASASAMAZQAGAOALAjIAHAAIAAh/IAZAAIARADQARAIAAAWIAAEEQAAAJgEAIQgJARgUAAg");
+	this.shape.setTransform(1234.7,513.5);
+
+	this.shape_1 = new cjs.Shape();
+	this.shape_1.graphics.f("#F9A01B").s().p("AjRDSQhXhXgBh7QABh7BXhWQBXhYB6AAQB8AABWBYQBYBWgBB7QABB7hYBXQhWBYh8gBQh6ABhXhYg");
+	this.shape_1.setTransform(1234.7,513.6);
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.shape_1},{t:this.shape}]}).wait(26));
+
+	// bottom clouds.ai
+	this.instance_1 = new lib.ClipGroup_2();
+	this.instance_1.parent = this;
+	this.instance_1.setTransform(915.3,1063.5,1,1,0,0,0,1275.2,357.8);
+
+	this.timeline.addTween(cjs.Tween.get(this.instance_1).wait(26));
+
+	// birds.ai
+	this.instance_2 = new lib.BIRDS();
+	this.instance_2.parent = this;
+	this.instance_2.setTransform(334.2,904.9,1,1,0,0,0,319.9,199.2);
+
+	this.timeline.addTween(cjs.Tween.get(this.instance_2).wait(1).to({x:356.8,y:893.4},0).wait(1).to({x:379.4,y:881.9},0).wait(1).to({x:402,y:870.4},0).wait(1).to({x:424.7,y:858.8},0).wait(1).to({x:447.3,y:847.3},0).wait(1).to({x:469.9,y:835.8},0).wait(1).to({x:492.6,y:824.3},0).wait(1).to({x:515.2,y:812.8},0).wait(1).to({x:537.8,y:801.3},0).wait(1).to({x:560.5,y:789.7},0).wait(1).to({x:583.1,y:778.2},0).wait(1).to({x:605.7,y:766.7},0).wait(1).to({x:628.4,y:755.2},0).wait(1).to({x:651,y:743.7},0).wait(1).to({x:673.6,y:732.2},0).wait(1).to({x:696.3,y:720.6},0).wait(1).to({x:718.9,y:709.1},0).wait(1).to({x:741.5,y:697.6},0).wait(1).to({x:764.2,y:686.1},0).wait(1).to({x:786.8,y:674.6},0).wait(1).to({x:809.4,y:663.1},0).wait(1).to({x:832.1,y:651.5},0).wait(1).to({x:854.7,y:640},0).wait(1).to({x:877.3,y:628.5},0).wait(1).to({x:900,y:617},0).wait(1));
+
+	// top clouds.ai
+	this.instance_3 = new lib.cloudstop();
+	this.instance_3.parent = this;
+	this.instance_3.setTransform(976.3,105.5,1,1,0,0,0,882.3,67.5);
+
+	this.timeline.addTween(cjs.Tween.get(this.instance_3).wait(26));
+
+	// bg
+	this.shape_2 = new cjs.Shape();
+	this.shape_2.graphics.f("#0099FF").s().p("EibGBROMAAAiibME2MAAAMAAACibg");
+	this.shape_2.setTransform(994.7,521.8);
+
+	this.shape_3 = new cjs.Shape();
+	this.shape_3.graphics.f("#FFFFFF").s().p("Eg9NAgVMAAAhApMB6cAAAMAAABApg");
+	this.shape_3.setTransform(967.7,518.8);
+
+	this.shape_4 = new cjs.Shape();
+	this.shape_4.graphics.f("#FFFFFF").s().p("EiaUBPMMAAAieXME0oAAAMAAACeXg");
+	this.shape_4.setTransform(989.7,508.8);
+
+	this.shape_5 = new cjs.Shape();
+	this.shape_5.graphics.f("#FFFFFF").s().p("Eg/uAcvMAAAg5dMB/dAAAMAAAA5dg");
+	this.shape_5.setTransform(409.9,185.9);
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.shape_5},{t:this.shape_4},{t:this.shape_3},{t:this.shape_2}]}).wait(26));
+
+}).prototype = p = new cjs.MovieClip();
+p.nominalBounds = new cjs.Rectangle(630.1,512,2550.3,1419.3);
+// library properties:
+lib.properties = {
+	width: 1980,
+	height: 1020,
+	fps: 24,
+	color: "#FFFFFF",
+	opacity: 1.00,
+	webfonts: {},
+	manifest: [],
+	preloads: []
+};
+
+
+
+
+})(lib = lib||{}, images = images||{}, createjs = createjs||{}, ss = ss||{}, AdobeAn = AdobeAn||{});
+var lib, images, createjs, ss, AdobeAn;
+</script>
+<script>
+var canvas, stage, exportRoot, anim_container, dom_overlay_container, fnStartAnimation;
+function init() {
+	canvas = document.getElementById("canvas");
+	anim_container = document.getElementById("animation_container");
+	dom_overlay_container = document.getElementById("dom_overlay_container");
+	handleComplete();
+}
+function handleComplete() {
+	//This function is always called, irrespective of the content. You can use the variable "stage" after it is created in token create_stage.
+	var preloaderDiv = document.getElementById("_preload_div_");
+	preloaderDiv.style.display = 'none';
+	canvas.style.display = 'block';
+	exportRoot = new lib.leadership();
+	stage = new createjs.Stage(canvas);
+	stage.addChild(exportRoot);	
+	//Registers the "tick" event listener.
+	fnStartAnimation = function() {
+		createjs.Ticker.setFPS(lib.properties.fps);
+		createjs.Ticker.addEventListener("tick", stage);
+	}	    
+	//Code to support hidpi screens and responsive scaling.
+	function makeResponsive(isResp, respDim, isScale, scaleType) {		
+		var lastW, lastH, lastS=1;		
+		window.addEventListener('resize', resizeCanvas);		
+		resizeCanvas();		
+		function resizeCanvas() {			
+			var w = lib.properties.width, h = lib.properties.height;			
+			var iw = window.innerWidth, ih=window.innerHeight;			
+			var pRatio = window.devicePixelRatio || 1, xRatio=iw/w, yRatio=ih/h, sRatio=1;			
+			if(isResp) {                
+				if((respDim=='width'&&lastW==iw) || (respDim=='height'&&lastH==ih)) {                    
+					sRatio = lastS;                
+				}				
+				else if(!isScale) {					
+					if(iw<w || ih<h)						
+						sRatio = Math.min(xRatio, yRatio);				
+				}				
+				else if(scaleType==1) {					
+					sRatio = Math.min(xRatio, yRatio);				
+				}				
+				else if(scaleType==2) {					
+					sRatio = Math.max(xRatio, yRatio);				
+				}			
+			}			
+			canvas.width = w*pRatio*sRatio;			
+			canvas.height = h*pRatio*sRatio;
+			canvas.style.width = anim_container.style.width = dom_overlay_container.style.width = preloaderDiv.style.width = w*sRatio+'px';				
+			canvas.style.height = anim_container.style.height = dom_overlay_container.style.height = preloaderDiv.style.height = h*sRatio+'px';
+			stage.scaleX = pRatio*sRatio;			
+			stage.scaleY = pRatio*sRatio;			
+			lastW = iw; lastH = ih; lastS = sRatio;		
+		}
+	}
+	makeResponsive(true,'both',true,1);	
+	fnStartAnimation();
+}
+</script>
+
+<body onload="init();" style="margin:0px;">
+	<div id="animation_container" style="background-color:rgba(255, 255, 255, 1.00); width:100%; height:1020px">
+		<canvas id="canvas" width="100%" height="1020" style="position: absolute; display: none; background-color:rgba(255, 255, 255, 1.00);"></canvas>
+		<div id="dom_overlay_container" style="pointer-events:none; overflow:hidden; width:100%; height:1020px; position: absolute; left: 0px; top: 0px; display: none;">
+		</div>
+	</div>
+    <div id='_preload_div_' style='display: inline-block; height:1020px; width: 100%; vertical-align=middle;position:absolute;left:0px;top:0px;text-align: center;'>	<span style='display: inline-block; height: 100%; vertical-align: middle;'></span>	<img src=images/_preloader.gif style='vertical-align: middle; max-height: 100%'/></div>
+</body>
+
 
 
 <?php if( $ad = vce_get_option('ad_below_header') ): ?>

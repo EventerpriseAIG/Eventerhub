@@ -926,7 +926,7 @@ a:active{
 	position: static;
 }
 .header-sticky .container{
-	position: relative;
+	position: absolute;
 }
 .header-sticky .site-title img{
 	max-height: 27px;
@@ -5396,7 +5396,7 @@ a.mks_button.mks_button_large {
 	overflow-y: auto;
     font-size: 15px;     
 }
-body.sidr-main-open{top: 0; }
+body.sidr-main-open{top: 55px; }
 
 .sidr .sidr-inner {
     padding: 0 0 15px;

@@ -380,7 +380,7 @@ a {
     .vce-main-content .featured-post.home-page-post .col-4:nth-child(3n + 3) {
       margin-right: 0; }
   .vce-main-content .featured-post.home-page-post .featured-img {
-    height: 270px; } }
+    height: 364px; } }
 @media (max-width: 767px) and (min-width: 580px) {
   .vce-main-content .featured-post.home-page-post .col-4 {
     width: calc(50% - 8px);

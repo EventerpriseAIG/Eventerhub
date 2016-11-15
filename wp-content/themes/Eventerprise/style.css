@@ -121,3 +121,19 @@ input[type="text"] {
     }
     .header-sticky .vce-responsive-nav{position: absolute;right: -996px !important;top:-5px;}
 }
+
+@media only screen and (min-width: 768px) {
+	.single-line {
+		overflow: visible;
+		white-space: normal;
+	}
+}
+
+@media (min-width: 999px) {
+.vce-main-content .featured-post .featured-img {
+    height: 500px;
+}
+.vce-main-content .featured-post.home-page-post .featured-img {
+	height: 364px !important;
+}
+}

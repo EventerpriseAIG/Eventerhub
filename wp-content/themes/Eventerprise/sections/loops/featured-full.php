@@ -15,7 +15,7 @@
                 </h2>
 
                 <?php if ( $meta = vce_get_meta_data( 'lay-fa-big' ) ) : ?>
-                    <div class="entry-meta"><?php echo $meta; ?></div>
+                    <div class="entry-meta"><?php //echo $meta; ?></div>
                 <?php endif; ?>
 
             </div>

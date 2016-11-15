@@ -27,7 +27,7 @@
 				<span class="meta-category"><?php echo vce_get_category(); ?></span>
 			<?php endif; ?>
 			<h6 class="entry-title single-line"><a href="<?php echo esc_url( get_permalink() ); ?>" title="<?php echo esc_attr( get_the_title() ); ?>"><?php echo vce_get_title( 'lay-c' ); ?></a></h6>
-			<?php if ( $meta = vce_get_meta_data( 'lay-c' ) ): ?><div class="entry-meta"><?php echo $meta; ?></div><?php endif; ?>
+			<?php if ( $meta = vce_get_meta_data( 'lay-c' ) ): ?><div class="entry-meta"><?php //echo $meta; ?></div><?php endif; ?>
 		</header>
 		<?php if ( vce_get_option( 'lay_c_excerpt' ) ) : ?>
 			<div class="entry-content">

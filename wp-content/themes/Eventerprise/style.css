@@ -8,32 +8,32 @@ Text Domain:eventerprise
 @import url('./css/new-blog/new-blog.css');
 
 
-/** The post excerpts ***/
-
 .new-header .header-1-wrapper .site-branding {
     padding: 8px 12px;
     line-height: 0;
 }
-.entry-content {
-	width: 100%;
-}
 
 
 
 /************
-Custom Styling
+General Styling
 ************/
+
+
 .container {
 	padding: 0 !important;
 }
 
-.vce-single .entry-content a {          /* added by Marc Steyn to highlight links in body of posts */
-    color: blue;
+.vce-single .entry-content a {    
+    color: #0071ba;
 }
-
+h6 {
+	line-height: 20px !important;
+	margin: 2% 0 !important;
+}
 /************
 
-I am using the !important tag to over write the styles that are being dynamically added to the index page.
+I am using the !important tag to over write the styles that are being dynamically added to the index page(these styles are added in via the functions.php page as inline styles).
 
 ************/
 
@@ -46,7 +46,8 @@ I am using the !important tag to over write the styles that are being dynamicall
 	letter-spacing: -8px;
 	font-weight: bold;
 	padding: 0;
-	color: #929497;
+	color: #232323;
+	margin: 1%;
 }
 .main-box {
 	margin: 4% 0;
@@ -64,17 +65,19 @@ h1.entry-title {
 
 
 
-/****************************************************** Individual article styling for the headings **/
+/****************************************************** single post styling for the headings **/
 
-.entry-headline,
-.entry-content {
-	width: 80% !important;
+
+.vce-single .entry-headline, .vce-single .entry-content {
+	width: 70% !important;
 }
 .main-box-title {
 	font-weight: bold !important;
 }
 
-/******************************************************** Main Navigation Styling ****/
+/******************************************************** Main Navigation Styling  The main nav seems to be cloned in the custom.js file and then the header-sticky class 
+is added via sticky plugin. ****/
+
 .main-navigation {
 	display: none !important;
 }
@@ -101,6 +104,9 @@ h1.entry-title {
 .fa-bars:before {
 	color: white;
 }
+
+/** This is the navigation list of links that slide out from the left **/
+
 .sidr {
 	background: white !important;
 }
@@ -115,11 +121,31 @@ input[type="text"] {
 	border-radius: 2px;
 }
 
+
+/***** Styling for the article teasers ***/
+
+.meta-category {
+	text-transform: uppercase;
+}
+.meta-category a {
+    color: coral !important;
+    font-weight: bold !important;
+}
+article.col-3 {
+	box-shadow: 0 0 40px;
+}
+.col-3 .content .entry-header .entry-meta {
+	display: none;
+}
+
+/***** Media Query Overwrites ***/
+
 @media only screen and (max-width: 1023px) {
     .site-branding {
     	display: block !important;
     }
-    .header-sticky .vce-responsive-nav{position: absolute;right: -996px !important;top:-5px;}
+    .header-sticky .vce-responsive-nav{position: absolute;right: -996px !important;top:-5px;
+    }
 }
 
 @media only screen and (min-width: 768px) {
@@ -130,10 +156,10 @@ input[type="text"] {
 }
 
 @media (min-width: 999px) {
-.vce-main-content .featured-post .featured-img {
-    height: 500px;
-}
-.vce-main-content .featured-post.home-page-post .featured-img {
-	height: 364px !important;
-}
+    .vce-main-content .featured-post .featured-img {
+        height: 500px;
+    }
+    .vce-main-content .featured-post.home-page-post .featured-img {
+	    height: 364px !important;
+    }
 }
